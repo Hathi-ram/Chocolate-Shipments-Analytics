@@ -1,16 +1,15 @@
-# 🍫 Chocolate Shipments Analytics (Power BI Project)
+# Chocolate Shipments Analytics (Power BI Project)
 
 This Power BI project analyzes **global chocolate shipments**, providing interactive dashboards and insights on **sales performance, product categories, regional demand, and supply chain trends**. The project demonstrates data modeling, visualization, and business intelligence reporting using Power BI.  
 
 ---
 
-## 📊 Live Dashboard  
-👉 [Click here to view the live interactive report](https://app.powerbi.com/view?r=XXXXX)  
+## Live Dashboard  
+👉 [Click here to view the live interactive report][(https://app.powerbi.com/view?r=XXXXX) ](https://app.powerbi.com/groups/me/reports/3355b719-6034-4505-a779-f474c85b2dd5?experience=power-bi) 
 
 ---
 
 ## 📸 Dashboard Preview  
-*(Replace with actual screenshots from your report — put them inside a `screenshots/` folder)*  
 
 ![Dashboard Overview](screenshots/dashboard-page1.png)  
 ![Regional Insights](screenshots/dashboard-page2.png)  
@@ -36,7 +35,7 @@ The dataset consists of three main tables:
 
 ---
 
-## 🚀 How to Use  
+## How to Use  
 
 1. Clone or download this repository  
 2. Open `chocolate-shipments-dashboard.pbix` in **Power BI Desktop**  
@@ -45,7 +44,7 @@ The dataset consists of three main tables:
 
 ---
 
-## 📌 Project Structure  
+## Project Structure  
 
 ```
 📦 chocolate-shipments-analytics
@@ -60,7 +59,7 @@ The dataset consists of three main tables:
 
 ---
 
-## 🎯 Skills Demonstrated  
+## Skills Demonstrated  
 - Data modeling in Power BI  
 - Building relationships between fact and dimension tables  
 - Designing interactive dashboards  
