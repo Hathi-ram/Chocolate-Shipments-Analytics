@@ -7,15 +7,6 @@ This Power BI project analyzes **global chocolate shipments**, providing interac
 ## Live Dashboard  
  [Click here to view the live interactive report][(https://app.powerbi.com/view?r=XXXXX) ](https://app.powerbi.com/groups/me/reports/3355b719-6034-4505-a779-f474c85b2dd5?experience=power-bi) 
 
----
-
-##  Dashboard Preview  
-
-![Dashboard Overview](screenshots/dashboard-page1.png)  
-![Regional Insights](screenshots/dashboard-page2.png)  
-
----
-
 ## Dataset  
 
 The dataset consists of three main tables:  
