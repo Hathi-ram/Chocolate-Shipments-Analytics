@@ -4,22 +4,22 @@
 #  Live Dashboard
   [Click here to view the live interactive report](https://app.powerbi.com/view?r=XXXXX)
 
-# 📸 Dashboard Preview
+# Dashboard Preview
 Dashboard Overview
 Regional Insights
 
-# 📂 Dataset
+#  Dataset
 The dataset consists of three main tables:
 
 Shipments → Transaction-level data (Shipment ID, Ship Date, Amount, Boxes, Order Status)
 Dimension Data → Products, Categories, Regions, and Salesperson details
 Calendar → Date, Month, Year, Weekday for time-based analysis
 
-# 🔑 Key Insights
-📦 Sales by Product Category – Which chocolate types (bars, bites, etc.) generate the most revenue
-🌍 Regional Performance – Demand and sales across APAC, Americas, and other geographies
-👥 Sales Team Performance – Revenue contribution by salespersons and teams
-📈 Trends Over Time – Seasonal demand patterns and shipment volumes
+#  Key Insights
+ Sales by Product Category – Which chocolate types (bars, bites, etc.) generate the most revenue
+ Regional Performance – Demand and sales across APAC, Americas, and other geographies
+ Sales Team Performance – Revenue contribution by salespersons and teams
+ Trends Over Time – Seasonal demand patterns and shipment volumes
 
 # How to Use
 Clone or download this repository
@@ -28,14 +28,14 @@ Explore the interactive visuals and dashboards
 Alternatively, view the live dashboard link above
 
 # Project Structure
-📦 chocolate-shipments-analytics
- ┣ 📂 data
+ chocolate-shipments-analytics
+ ┣  data
  ┃ ┗ sample-chocolate-shipments.xlsx   # optional, if dataset is public
- ┣ 📂 screenshots
+ ┣  screenshots
  ┃ ┣ dashboard-page1.png
  ┃ ┣ dashboard-page2.png
- ┣ 📄 chocolate-shipments-dashboard.pbix
- ┣ 📄 README.md
+ ┣  chocolate-shipments-dashboard.pbix
+ ┣  README.md
  
 # Skills Demonstrated
 Data modeling in Power BI
