@@ -5,18 +5,18 @@ This Power BI project analyzes **global chocolate shipments**, providing interac
 ---
 
 ## Live Dashboard  
-👉 [Click here to view the live interactive report][(https://app.powerbi.com/view?r=XXXXX) ](https://app.powerbi.com/groups/me/reports/3355b719-6034-4505-a779-f474c85b2dd5?experience=power-bi) 
+ [Click here to view the live interactive report][(https://app.powerbi.com/view?r=XXXXX) ](https://app.powerbi.com/groups/me/reports/3355b719-6034-4505-a779-f474c85b2dd5?experience=power-bi) 
 
 ---
 
-## 📸 Dashboard Preview  
+##  Dashboard Preview  
 
 ![Dashboard Overview](screenshots/dashboard-page1.png)  
 ![Regional Insights](screenshots/dashboard-page2.png)  
 
 ---
 
-## 📂 Dataset  
+## Dataset  
 
 The dataset consists of three main tables:  
 
@@ -26,12 +26,12 @@ The dataset consists of three main tables:
 
 ---
 
-## 🔑 Key Insights  
+##  Key Insights  
 
-- 📦 **Sales by Product Category** – Which chocolate types (bars, bites, etc.) generate the most revenue  
-- 🌍 **Regional Performance** – Demand and sales across APAC, Americas, and other geographies  
-- 👥 **Sales Team Performance** – Revenue contribution by salespersons and teams  
-- 📈 **Trends Over Time** – Seasonal demand patterns and shipment volumes  
+-  **Sales by Product Category** – Which chocolate types (bars, bites, etc.) generate the most revenue  
+-  **Regional Performance** – Demand and sales across APAC, Americas, and other geographies  
+-  **Sales Team Performance** – Revenue contribution by salespersons and teams  
+-  **Trends Over Time** – Seasonal demand patterns and shipment volumes  
 
 ---
 
@@ -47,14 +47,14 @@ The dataset consists of three main tables:
 ## Project Structure  
 
 ```
-📦 chocolate-shipments-analytics
- ┣ 📂 data
+ chocolate-shipments-analytics
+ ┣  data
  ┃ ┗ sample-chocolate-shipments.xlsx   # optional, if dataset is public
- ┣ 📂 screenshots
+ ┣  screenshots
  ┃ ┣ dashboard-page1.png
  ┃ ┣ dashboard-page2.png
- ┣ 📄 chocolate-shipments-dashboard.pbix
- ┣ 📄 README.md
+ ┣  chocolate-shipments-dashboard.pbix
+ ┣  README.md
 ```
 
 ---
