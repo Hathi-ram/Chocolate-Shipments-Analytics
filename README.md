@@ -4,7 +4,7 @@
 ##  Live Dashboard
   [Click here to view the live interactive report](https://app.powerbi.com/view?r=XXXXX)
 
-# Dashboard Preview
+## Dashboard Preview
 Dashboard Overview
 Regional Insights
 
